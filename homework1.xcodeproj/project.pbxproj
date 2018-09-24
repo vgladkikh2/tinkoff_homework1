@@ -13,7 +13,6 @@
 		8C132CF821580E3C00A7772A /* homework1.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8C132CF621580E3C00A7772A /* homework1.xcdatamodeld */; };
 		8C132CFA21580E3E00A7772A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C132CF921580E3E00A7772A /* Assets.xcassets */; };
 		8C132CFD21580E3E00A7772A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8C132CFB21580E3E00A7772A /* LaunchScreen.storyboard */; };
-		8C882AEE2158AF1B00832A9E /* test.xcscmblueprint in Resources */ = {isa = PBXBuildFile; fileRef = 8C882AED2158AF1B00832A9E /* test.xcscmblueprint */; };
 		8C882AF02158B8BA00832A9E /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 8C882AEF2158B8BA00832A9E /* .gitignore */; };
 /* End PBXBuildFile section */
 
@@ -26,7 +25,6 @@
 		8C132CF921580E3E00A7772A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8C132CFC21580E3E00A7772A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8C132CFE21580E3E00A7772A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8C882AED2158AF1B00832A9E /* test.xcscmblueprint */ = {isa = PBXFileReference; lastKnownFileType = text; path = test.xcscmblueprint; sourceTree = "<group>"; };
 		8C882AEF2158B8BA00832A9E /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
@@ -67,7 +65,6 @@
 				8C132CFB21580E3E00A7772A /* LaunchScreen.storyboard */,
 				8C132CFE21580E3E00A7772A /* Info.plist */,
 				8C132CF621580E3C00A7772A /* homework1.xcdatamodeld */,
-				8C882AED2158AF1B00832A9E /* test.xcscmblueprint */,
 				8C882AEF2158B8BA00832A9E /* .gitignore */,
 			);
 			path = homework1;
@@ -132,7 +129,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				8C882AF02158B8BA00832A9E /* .gitignore in Resources */,
-				8C882AEE2158AF1B00832A9E /* test.xcscmblueprint in Resources */,
 				8C132CFD21580E3E00A7772A /* LaunchScreen.storyboard in Resources */,
 				8C132CFA21580E3E00A7772A /* Assets.xcassets in Resources */,
 				8C132CF521580E3C00A7772A /* Main.storyboard in Resources */,
